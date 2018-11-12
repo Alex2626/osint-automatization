@@ -1,0 +1,22 @@
+8c8,9
+< 
+---
+> + https://www.urjc.es/images/cndeuto/actualidad/congreso%20CITO%20mayo%202017.pdf
+> + http://www.urjc.es/images/Noticias/Agenda/premios/2018/PremioGrabadoIngl%C3%A9s.pdf
+9a11
+> + https://www.urjc.es/images/Internacional/erasmus%20y%20movilidad/otros_programas/Alemania%20Universidad%20de%20Bayreuth%20International%20Summer%20School%202018.pdf
+11d12
+< + http://www.urjc.es/robots.txt
+14,25d14
+< + http://www.urjc.es/pt/principal-intranet/internacional-intranet
+< + http://www.urjc.es/en/principal-intranet/programa-de-formacion/formacion-docencia-universitaria/1108-informacion-general
+< + https://www.urjc.es/ru/user
+< + https://www.urjc.es/zh/universidad/facultades/facultad-de-ciencias-de-la-comunicacion/1317-convocatoria-mentores
+< + https://www.urjc.es/en/principal-intranet/programa-de-formacion/formacion-usuarios-biblioteca
+< + https://www.urjc.es/user?view=reset
+< + https://www.urjc.es/en/universidad/facultades/facultad-de-ciencias-de-la-comunicacion/1317-convocatoria-mentores
+< + https://www.urjc.es/ru/user?view=remind
+< + https://www.urjc.es/ru/user?view=reset
+< + https://www.urjc.es/en/user?view=reset
+< TypeError: Attempting to change the setter of an unconfigurable property.
+< TypeError: Attempting to change the setter of an unconfigurable property.
